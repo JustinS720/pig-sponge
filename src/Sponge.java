@@ -41,7 +41,7 @@ public class Sponge {
     {
       if (x == ' ')
       {
-        lower = false;
+      lower = false;
       }
       if (lower)
       {
